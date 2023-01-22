@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.notfound-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
